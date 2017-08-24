@@ -1,0 +1,7 @@
+.well {
+	border:none;
+	background-color: white;
+}
+.rowwell col-md-4 h1 {
+	color:red;
+}
